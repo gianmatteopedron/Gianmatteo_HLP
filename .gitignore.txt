@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+Untitled.ipynb
+foo.txt
+anaconda_projects/
+*.pyc
